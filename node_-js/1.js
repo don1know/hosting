@@ -1,1 +1,2 @@
-alert(77);
+console.log("ggghuyh");
+alert(66)
